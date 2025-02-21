@@ -1,4 +1,4 @@
-# CoffeeShopAPI
+# Coffee Shop API
 
 ## High-Level Overview
 
